@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @reemshai10
+- 👋 Hi, I’m reem shai
 - 👀 I’m interested in DevOps,Software Dev, BackEnd
 - 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on ...
